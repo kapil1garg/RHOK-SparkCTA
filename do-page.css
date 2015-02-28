@@ -1,0 +1,70 @@
+/* Make the Application the size of the phone */
+html {
+	width: 100%;
+	height: 100%;
+	font-family: Helvetica;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 7%;
+	background-color: #128792;
+}
+
+footer {
+	position: fixed;
+	top: 93%;
+	width: 100%;
+	height: 7%;
+	background-color: #128792;
+}
+
+#heading {
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center; 
+
+	color: white; 
+}
+
+#bottom {
+	display: inline-block;
+	height: 100%;
+	width: 100%;
+	vertical-align: middle;
+	text-align: center; 
+
+	color: white; 
+}
+
+#containerList {
+	position: absolute;
+    height:50%;
+	width: 100%;
+	top: 7%;
+
+	background-color: lightgreen;
+}
+
+#containerVideo {
+	position: absolute;
+	
+	height: 50%;
+	width: 100%;
+	top: 57%; 
+
+	background-color: grey;
+}
+
+p {
+	vertical-align: middle;
+	text-align: center; 
+}
