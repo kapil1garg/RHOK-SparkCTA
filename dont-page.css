@@ -45,32 +45,23 @@ footer {
 	color: white; 
 }
 
-#containerTop {
+#containerList {
 	position: absolute;
-    height:33.33%;
+    height:50%;
 	width: 100%;
 	top: 7%;
-
-	background-color: lightgreen;
-}
-
-#containerMiddle {
-	position: absolute;
-    height:33.33%;
-	width: 100%;
-	top: 40.33%;
 
 	background-color: red;
 }
 
-#containerBottom {
+#containerVideo {
 	position: absolute;
 	
-	height: 33.33%;
+	height: 50%;
 	width: 100%;
-	top: 70.66%; 
+	top: 57%; 
 
-	background-color: orange;
+	background-color: grey;
 }
 
 p {
