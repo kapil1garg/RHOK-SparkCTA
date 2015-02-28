@@ -44,3 +44,36 @@ footer {
 
 	color: white; 
 }
+
+#containerTop {
+	position: absolute;
+    height:33.33%;
+	width: 100%;
+	top: 7%;
+
+	background-color: orange;
+}
+
+#containerMiddle {
+	position: absolute;
+    height:33.33%;
+	width: 100%;
+	top: 40.33%;
+
+	background-color: red;
+}
+
+#containerBottom {
+	position: absolute;
+	
+	height: 33.33%;
+	width: 100%;
+	top: 70.66%; 
+
+	background-color: lightgreen;
+}
+
+p {
+	vertical-align: middle;
+	text-align: center; 
+}
